@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\services\\customformservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\services\\customformservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\controllers\\customformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\controllers\\customformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\models\\customform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\models\\customform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\models\\customformdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\models\\customformdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|c:\\users\\shafran\\desktop\\.net\\dotnetforminputs\\backend\\backend\\migrations\\20250702091441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E7F9400-CA9D-4293-B4D3-EC8963D06F4D}|backend\\backend.csproj|solutionrelative:backend\\migrations\\20250702091441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomFormDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Models\\CustomFormDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\CustomFormDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Models\\CustomFormDatabaseSettings.cs",
+              "RelativeToolTip": "backend\\Models\\CustomFormDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:55:06.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomFormServices.cs",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Services\\CustomFormServices.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\CustomFormServices.cs",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Services\\CustomFormServices.cs",
+              "RelativeToolTip": "backend\\Services\\CustomFormServices.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T00:11:27.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomForm.cs",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Models\\CustomForm.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\CustomForm.cs",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Models\\CustomForm.cs",
+              "RelativeToolTip": "backend\\Models\\CustomForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:48:51.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:44:43.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomFormController.cs",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Controllers\\CustomFormController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\CustomFormController.cs",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Controllers\\CustomFormController.cs",
+              "RelativeToolTip": "backend\\Controllers\\CustomFormController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAqwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T11:49:55.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "backend\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Properties\\launchSettings.json",
+              "RelativeToolTip": "backend\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T09:25:09.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\appsettings.json",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\appsettings.json",
+              "RelativeToolTip": "backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T08:13:16.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250702091441_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Migrations\\20250702091441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "backend\\Migrations\\20250702091441_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Shafran\\Desktop\\.NET\\DotnetFormInputs\\backend\\backend\\Migrations\\20250702091441_InitialCreate.cs",
+              "RelativeToolTip": "backend\\Migrations\\20250702091441_InitialCreate.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T09:14:41.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
